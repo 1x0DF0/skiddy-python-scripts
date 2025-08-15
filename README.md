@@ -1,1 +1,3 @@
 # skiddy-python-scripts
+
+This repo is just a place for me to access any and all python scripts I might need some of these scripts have repos with readmes....
